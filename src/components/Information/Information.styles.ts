@@ -14,14 +14,21 @@ margin-top:20px;
 border-radius:12px;
 padding:20px;
 z-index:999;
-top:34%;
+top:24%;
+
+@media (max-width:360px){
+  left:-2%;
+  top:23%;
+}
 
 @media (min-width:390px){
   left:2%;
+  top:18%;
 }
 
 @media (min-width:410px){
   left:4%;
+  top:18%;
 }
 
 @media (min-width: 1280px) {

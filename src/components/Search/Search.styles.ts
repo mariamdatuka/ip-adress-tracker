@@ -67,6 +67,10 @@ export const SearchButton=styled.button`
     bottom:0;
     cursor:pointer;
 
+    @media(min-width:360px){
+        right:4%;
+    }
+
     @media(min-width:400px){
         right:8%;
     }
