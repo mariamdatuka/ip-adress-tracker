@@ -1,5 +1,5 @@
 import React from 'react'
-import { GridContainer, GridItem } from './Information.styles'
+import { GridContainer, GridItem} from './Information.styles'
 import { Data } from '../../Interfaces/interfaces';
 
 
@@ -44,6 +44,7 @@ const Information= ({data}:Props) => {
       </GridItem>
       ))}
       </GridContainer>
+     
     </>
   )
 }
