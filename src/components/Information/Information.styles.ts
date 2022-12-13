@@ -14,7 +14,7 @@ margin-top:20px;
 border-radius:12px;
 padding:20px;
 z-index:999;
-top:16%;
+top:34%;
 
 @media (min-width:390px){
   left:2%;
@@ -30,16 +30,16 @@ top:16%;
    height:200px;
    column-gap:80px;
    left:10%;
-   top:25%;
+   top:27%;
 
    @media (min-width: 1440px){
      left:15%;
-     top:25%;
+     top:28%;
    }
 
    @media (min-width: 1920px){
      left:20%;
-     top:25%;
+     top:28%;
    }
   
   }
